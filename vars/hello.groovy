@@ -1,3 +1,3 @@
-def anuj(){
+def call(){
   echo"This is anuj:"
 }
